@@ -1,0 +1,3 @@
+Plant ID, Facility Type, Status, Current Output, Max Output, Device Status
+WIND-20250501-170908-339P9, WindTurbine, Shutdown, 0.0, 120.0, Normal
+SOLAR-20250501-170901-AT5DG, SolarPanel, Shutdown, 0.0, 120.0, Normal
